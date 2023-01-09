@@ -1,0 +1,42 @@
+draft: false # set to True if the programme is draft only.
+image: hotel.jpg
+hide_tentative: true
+proceedings:
+  url: http://proceedings.mlr.press/v15/
+  show: true
+room: 
+venue: Hyatt Regency Pier 66
+venue_url: https://www.pier66hotelmarina.com/
+location: Ft. Lauderdale, FL, USA
+full_name: Artificial Intelligence and Statistics
+short_name: AISTATS
+name: Artificial Intelligence and Statistics
+year: 2011
+instance: 14th
+styling: International Conference on
+dates:
+- 2011-04-11
+- 2011-04-13
+chairs:
+- type: Program Chairs
+  people:
+  - family: Gordon
+    given: Geoff
+    institute: Machine Learning Department, Carnegie Mellon University
+    url: http://www.cs.cmu.edu/%7Eggordon/
+  - family: Dunson
+    given: David
+    institute: Department of Statistical Science, Duke University
+    url: http://www.stat.duke.edu/%7Edunson/
+- type: Sponsorship Chair
+  people:
+  - family: Sutton
+    given: Charles
+    url: http://homepages.inf.ed.ac.uk/csutton
+    institute: School of Informatics, University of Edinburgh
+- type: Proceedings Chair
+  people:
+  - family: Dud&iacute;k
+    given: Miroslav
+    url: http://www.cs.cmu.edu/~mdudik/
+    institute: Yahoo! Research
